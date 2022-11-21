@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "99480301343",
+    "project_id": "brocode-2802a",
+    "storage_bucket": "brocode-2802a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99480301343:android:954d185b9114b896f1ca2a",
+        "android_client_info": {
+          "package_name": "com.example.bro_code_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99480301343-5oj09r3crirf1kt4uhpmgj5vpu8s26e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtdOZuvP9tHbWMWfbXjJvZQPTVfWyP--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99480301343-5oj09r3crirf1kt4uhpmgj5vpu8s26e7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99480301343-0i23okffqbfr8qhqcl9o47u19lubpjd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.broCode01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
